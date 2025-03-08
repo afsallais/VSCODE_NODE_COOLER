@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../250307-234251-nodemcuv2"
+		},
+		{
+			"name": "VSCODE_NODE_COOLER",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}

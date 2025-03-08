@@ -1,0 +1,82 @@
+Temperature: 26.37
+ 5
+:30
+:17
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.53
+Temperature: 26.53
+Temperature: 25.58
+Temperature: 26.53
+ 5
+:30
+:28
+Temperature: 25.58
+Temperature: 26.53
+Temperature: 26.53
+Temperature: 26.37
+Temperature: 26.53
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 26.37
+Temperature: 25.26
+Temperature: 25.26
+ 5
+:30
+:39
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.26
+Temperature: 25.10
+Temperature: 25.26
+Temperature: 26.37
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.10
+ 5
+:30
+:50
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 25.10
+Temperature: 24.94
+Temperature: 26.22
+Temperature: 24.94
+Temperature: 26.22
+Temperature: 25.10
+Temperature: 26.22
+Temperature: 25.10
+Temperature: 26.22
+Temperature: 25.10
+ 5
+:31
+:1
+Temperature: 26.22
+Temperature: 26.22
+Temperature: 24.94
+Temperature: 26.22
+Temperature: 24.94
+Temperature: 25.10
+Temperature: 26.22
+Temperature: 25.10
+Temperature: 26.22
+Temperature: 26.22
+Temperature: 26.22
+Temperature: 25.10
+ 5
+:31
+:12
+Temperature: 25.10
+Temperature: 26.22
+Temperature: 25.10
